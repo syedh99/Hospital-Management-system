@@ -1,0 +1,10 @@
+Patient: Sam Sam
+Attending Physician: John John cardiologist
+Admit Date: 4-15-2009
+Date dismissed: 4-21-2009
+
+Pharmacy Charges: $245.5
+Room Charges:     $2500.0
+Doctor's Fees:    $3500.38
+------------------------------
+Total Charges:    $6245.88
